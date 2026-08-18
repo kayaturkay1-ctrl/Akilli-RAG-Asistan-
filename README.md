@@ -25,7 +25,7 @@ Gelişmiş **Parent-Child Chunking (Hiyerarşik Parçalama)** mimarisi ve **FAIS
 ## 🏗️ Mimari & Çalışma Mantığı
 
 <p align="center">
-  <img src="assets-mimari-sema.png" alt="Akıllı PDF Asistanı Mimarisi - Detaylı Şema" width="100%">
+  <img src="assets/mimari-sema.png" alt="Akıllı PDF Asistanı Mimarisi - Detaylı Şema" width="100%">
 </p>
 ```text
 [ PDF Dokümanı ] 
