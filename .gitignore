@@ -1,0 +1,32 @@
+# Python bytecode ve önbellek
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Sanal ortamlar (Virtual Environments)
+.venv/
+venv/
+env/
+ENV/
+
+# FAISS ve Veri İndeksleri
+*.index
+*.pkl
+
+# PDF ve Dokümanlar
+*.pdf
+
+# Ortam değişkenleri ve gizli anahtarlar
+.env
+.env.*
+
+# IDE ve Editör ayarları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# İşletim sistemi kalıntıları
+.DS_Store
+Thumbs.db
